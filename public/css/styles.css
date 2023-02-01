@@ -1,0 +1,37 @@
+
+body {
+  margin: 0px;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  background-color: rgb(240, 152, 0);
+  font-family: 'Dosis', cursive;
+
+
+}
+
+h4 {
+  font-weight: 600;
+  line-height: 75px;
+}
+
+
+.parent {
+
+  align-items: center;
+  justify-content: center;
+}
+
+
+.title {
+    font-family: 'Rowdies', cursive;
+    font-weight: 400;
+}
+
+.cover-container {
+  max-width: 42em;
+}
+
+
+.textbox {
+    border: 3px black solid;
+
+}
